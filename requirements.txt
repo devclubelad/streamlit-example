@@ -8,3 +8,4 @@ plotly
 scipy
 sklearn
 scikit-learn
+streamlit_chat
